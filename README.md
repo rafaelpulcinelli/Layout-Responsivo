@@ -1,16 +1,21 @@
-# myapp
+# Layout Responsivo  
+## Atividade 2 - Disciplina de Desenvolvimento Web
 
-A new Flutter project.
+Este projeto consiste em um aplicativo interativo desenvolvido em Flutter para a **Atividade 2** do curso de **Desenvolvimento Web**. 
 
-## Getting Started
+## 📋 Descrição
+O aplicativo apresenta um contador que pode ser incrementado ou decrementado por meio de dois botões. O layout é responsivo, com design estilizado utilizando cores, bordas arredondadas e sombreamento.
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades
+- Incrementar e decrementar o contador.
+- Design responsivo e estilizado.
+- Organização visual com uso de `Column`, `Row` e `Expanded`.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Estrutura
+O código utiliza:
+- Gerenciamento de estado com `setState`.
+- Widgets como `Scaffold`, `AppBar`, `FloatingActionButton` e `Container`.
+- Personalização com `BoxDecoration` e `ThemeData`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📚 Aprendizado
+A atividade reforça conceitos como gerenciamento de estado, organização de layout responsivo e estilização de componentes no Flutter.
