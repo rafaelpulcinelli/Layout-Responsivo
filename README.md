@@ -5,6 +5,7 @@ Este projeto consiste em um aplicativo interativo desenvolvido em Flutter para a
 
 ## 📋 Descrição
 O aplicativo apresenta um contador que pode ser incrementado ou decrementado por meio de dois botões. O layout é responsivo, com design estilizado utilizando cores, bordas arredondadas e sombreamento.
+Para acessar o código, abra a pasta "lib" e "main.dart".
 
 ## 🚀 Funcionalidades
 - Incrementar e decrementar o contador.
